@@ -2,7 +2,7 @@
 # Sheldon1 
   - Contain six stages
   - Use gdb in a unix based platfrom to reverse engineer
-  - Writeups are seperated for the each stage
+  - Writeups are seperated for each stage
 # Sheldon2
   - Use gdb in a unix based platfrom to reverse engineer
 # Leonard
